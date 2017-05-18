@@ -69,3 +69,5 @@ gem 'devise', github: 'plataformatec/devise'
 gem "geocoder"
 
 gem "figaro"
+
+gem 'jquery-rails'
